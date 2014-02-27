@@ -1,7 +1,7 @@
 # Slides
 ## How to run
 ```
-$ npm install
+$ cd slides && npm install
 ```
 ```
 $npm start
